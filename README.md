@@ -1,1 +1,1 @@
-# llm-zoomcamp
+# llm-learning
